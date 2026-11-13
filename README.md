@@ -31,7 +31,7 @@ Traditional travel agencies in Pakistan frequently wrestle with disparate Global
 > *Project screenshots captured from the live application.*
 
 ### 🖥️  Customer Portal Homepage
-![Customer Portal Preview](./public/screenshots/Dashboard.png )
+![Customer Portal Preview](./public/screenshots/customer-portal.png )
 
 ### 📋  Active-Recall Flashcard Deck
 ![Admin Dashboard Preview](./public/screenshots/admin-dashboard.png )
