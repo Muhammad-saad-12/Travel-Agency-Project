@@ -30,12 +30,15 @@ Traditional travel agencies in Pakistan frequently wrestle with disparate Global
 
 > *Project screenshots captured from the live application.*
 
-| View | Screenshot Preview |
-|---|---|
-| **Customer Portal Homepage**<br>*(Public search, flight inquiry modal, featured Umrah & Northern Pakistan packages)* | `[Insert Screenshot: Customer Portal Homepage]` |
-| **Admin Operations Command Center**<br>*(Live revenue KPIs, action-required queues, supplier health monitors, upcoming departures)* | `[Insert Screenshot: Admin Operations Command Center]` |
-| **GDS PNR Importer & Decoder**<br>*(Raw terminal screen, sample loader, extracted manifest, fare breakdown in PKR, 1-click booking creator)* | `[Insert Screenshot: GDS PNR Importer Terminal]` |
-| **Agency Deposit & Credit Ledger**<br>*(B2B credit lines, wallet balances, deposit slip verification, sub-agent allocations)* | `[Insert Screenshot: Agency Deposit & Credit Ledger]` |
+### 🖥️  Customer Portal Homepage
+![Customer Portal Preview](./public/screenshots/Dashboard.png )
+
+### 📋  Active-Recall Flashcard Deck
+![Admin Dashboard Preview](./public/screenshots/admin-dashboard.png )
+
+### 💬 Auto-Graded Multiple-Choice Quiz
+![GDS Decoder](./public/screenshots/gds-decoder.png)
+
 
 ---
 
