@@ -10,8 +10,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#)
 
 ---
-
-[![Live Link]([https://img.shields.io/badge/License-MIT-blue?style=for-the-badge](https://travel-agency-project-production.up.railway.app/))](#)
+# Live Link (Click to visit the website) 
+[Live Link](https://travel-agency-project-production.up.railway.app/)
 
 ## 1. Project Overview & Purpose
 
