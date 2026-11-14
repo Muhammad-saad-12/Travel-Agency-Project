@@ -33,10 +33,10 @@ Traditional travel agencies in Pakistan frequently wrestle with disparate Global
 ### 🖥️  Customer Portal Homepage
 ![Customer Portal Preview](./public/screenshots/customer-portal.png )
 
-### 📋  Active-Recall Flashcard Deck
+### 📋  Admin DashBoard Preview 
 ![Admin Dashboard Preview](./public/screenshots/admin-dashboard.png )
 
-### 💬 Auto-Graded Multiple-Choice Quiz
+### 💬 GDS-decoder
 ![GDS Decoder](./public/screenshots/gds-decoder.png)
 
 
