@@ -11,6 +11,8 @@
 
 ---
 
+[![Live Link]([https://img.shields.io/badge/License-MIT-blue?style=for-the-badge](https://travel-agency-project-production.up.railway.app/))](#)
+
 ## 1. Project Overview & Purpose
 
 **FlightDesk PK** is a production-grade, full-stack travel agency management software and B2B airline consolidator platform tailored specifically for the Pakistani aviation and tourism market. 
